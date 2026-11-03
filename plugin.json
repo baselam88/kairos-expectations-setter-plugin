@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Writes onboarding expectations from averages and the client's own data \u2014 'this is what has happened', never 'this will happen for you'.",
+  "keywords": [
+    "expectations",
+    "kairos",
+    "setter",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-expectations-setter",
+  "repository": "https://github.com/baselam88/kairos-expectations-setter-plugin",
+  "version": "0.1.0"
+}
